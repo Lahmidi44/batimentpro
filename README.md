@@ -1,4 +1,3 @@
-[Uploading synthese_risques_kenitra (2).html…]()
 <!DOCTYPE html>
 <html>
 <head>
